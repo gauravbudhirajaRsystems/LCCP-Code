@@ -1,0 +1,111 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "LCCP.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LCCP.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LCCP.Dto.dll": {}
+        }
+      },
+      "LCCP.Entity/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/LCCP.Entity.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/LCCP.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LCCP.Dto/1.0.0": {
+      "type": "project",
+      "path": "../LCCP.Dto/LCCP.Dto.csproj",
+      "msbuildProject": "../LCCP.Dto/LCCP.Dto.csproj"
+    },
+    "LCCP.Entity/1.0.0": {
+      "type": "project",
+      "path": "../LCCP.Entity/LCCP.Entity.csproj",
+      "msbuildProject": "../LCCP.Entity/LCCP.Entity.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "LCCP.Dto >= 1.0.0",
+      "LCCP.Entity >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gaurav.budhiraja\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj",
+      "projectName": "LCCP.Mapping",
+      "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj",
+      "packagesPath": "C:\\Users\\gaurav.budhiraja\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Mapping\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gaurav.budhiraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "http://literanuget.azurewebsites.net/nuget": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/litera/Default/_packaging/Litera/nuget/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Dto\\LCCP.Dto.csproj": {
+              "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Dto\\LCCP.Dto.csproj"
+            },
+            "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {
+              "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.301\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

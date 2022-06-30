@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LCCP.WebAPI</name>
+    </assembly>
+    <members>
+        <member name="T:LCCP.WebAPI.Application.ServiceDependency">
+            <summary>
+            ServiceDependency class used for adding the dependencies using the dependency injection
+            </summary>
+        </member>
+        <member name="M:LCCP.WebAPI.Application.ServiceDependency.AddDependencies(Microsoft.Extensions.DependencyInjection.IServiceCollection,System.String)">
+            <summary>
+            Add the dependencies using the dependency injection
+            </summary>
+            <param name="services">ServiceCollection Object</param>
+            <param name="connectionString">Database Connectionstring</param>
+            <returns></returns>
+        </member>
+        <member name="T:LCCP.WebAPI.Application.SwaggerConfiguration">
+            <summary>
+            SwaggerConfiguration class used for adding the swagger configuration settings
+            </summary>
+        </member>
+        <member name="M:LCCP.WebAPI.Application.SwaggerConfiguration.AddSwaggerConfiguration(Microsoft.Extensions.DependencyInjection.IServiceCollection)">
+            <summary>
+            Add the swagger configurations
+            </summary>
+            <param name="services">ServiceCollection Object</param>
+            <returns></returns>
+        </member>
+        <member name="T:LCCP.WebAPI.Controllers.TestingController">
+            <summary>
+            Testing Controller class used for testing the Get, Post, Put, Delete Tesing API
+            </summary>
+        </member>
+        <member name="M:LCCP.WebAPI.Controllers.TestingController.GetTestDataList">
+            <summary>
+            Get the Test Data List Object
+            </summary>
+            <returns>Returns the TestDataDtoList object</returns>
+        </member>
+        <member name="M:LCCP.WebAPI.Controllers.TestingController.GetTestDataById(System.Int32)">
+            <summary>
+            Get the Test Data Object By Id
+            </summary>
+            <param name="id">TestData Id</param>
+            <returns>Returns the TestDataDto object</returns>
+        </member>
+        <member name="M:LCCP.WebAPI.Controllers.TestingController.AddTestData(LCCP.Dto.TestDataDto)">
+            <summary>
+            Add the Test Data Object
+            </summary>
+            <param name="testDataDto">TestData object</param>
+            <returns>Returns the BaseResultDto object</returns>
+        </member>
+        <member name="M:LCCP.WebAPI.Controllers.TestingController.UpdateTestData(LCCP.Dto.TestDataDto)">
+            <summary>
+            Update the Test Data Object
+            </summary>
+            <param name="testDataDto">TestData object</param>
+            <returns>Returns the BaseResultDto object</returns>
+        </member>
+        <member name="M:LCCP.WebAPI.Controllers.TestingController.DeleteTestData(System.Int32)">
+            <summary>
+            Delete the Test Data Object
+            </summary>
+            <param name="id">TestData Id</param>
+            <returns>Returns the BaseResultDto object</returns>
+        </member>
+    </members>
+</doc>

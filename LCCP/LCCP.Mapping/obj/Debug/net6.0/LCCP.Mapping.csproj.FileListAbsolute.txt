@@ -1,0 +1,34 @@
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Mapping.deps.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Mapping.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Mapping.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Dto.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Entity.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Dto.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Entity.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.csproj.AssemblyReference.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.AssemblyInfoInputs.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.AssemblyInfo.cs
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.csproj.CoreCompileInputs.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.csproj.CopyComplete
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\refint\LCCP.Mapping.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Mapping\obj\Debug\net6.0\ref\LCCP.Mapping.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.csproj.AssemblyReference.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.AssemblyInfoInputs.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.AssemblyInfo.cs
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.csproj.CoreCompileInputs.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\ref\LCCP.Mapping.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Mapping.deps.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Mapping.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Mapping.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Dto.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Entity.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Dto.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\bin\Debug\net6.0\LCCP.Entity.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\LCCP.Mapping.csproj.CopyComplete
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Mapping\obj\Debug\net6.0\refint\LCCP.Mapping.dll

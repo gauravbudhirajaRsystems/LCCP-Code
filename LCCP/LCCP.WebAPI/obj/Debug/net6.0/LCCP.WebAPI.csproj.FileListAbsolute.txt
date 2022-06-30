@@ -1,0 +1,100 @@
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.exe
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.deps.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.runtimeconfig.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.xml
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Dapper.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.ApplicationFacade.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Core.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Dto.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Entity.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Mapping.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Repo.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Services.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.ApplicationFacade.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Core.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Repo.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Services.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Dto.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Entity.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Mapping.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.csproj.AssemblyReference.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.AssemblyInfoInputs.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.AssemblyInfo.cs
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.csproj.CoreCompileInputs.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\scopedcss\bundle\LCCP.WebAPI.styles.css
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.csproj.CopyComplete
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\refint\LCCP.WebAPI.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.xml
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.genruntimeconfig.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.WebAPI\obj\Debug\net6.0\ref\LCCP.WebAPI.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.csproj.AssemblyReference.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.AssemblyInfoInputs.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.AssemblyInfo.cs
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\ref\LCCP.WebAPI.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.xml
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.exe
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.deps.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.runtimeconfig.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.WebAPI.xml
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Dapper.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.ApplicationFacade.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Core.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Dto.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Entity.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Mapping.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Repo.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Services.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.ApplicationFacade.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Core.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Repo.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Services.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Dto.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Entity.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\bin\Debug\net6.0\LCCP.Mapping.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\scopedcss\bundle\LCCP.WebAPI.styles.css
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.csproj.CopyComplete
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\refint\LCCP.WebAPI.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.WebAPI\obj\Debug\net6.0\LCCP.WebAPI.genruntimeconfig.cache

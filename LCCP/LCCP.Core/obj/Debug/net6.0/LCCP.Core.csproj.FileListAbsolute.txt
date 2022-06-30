@@ -1,0 +1,34 @@
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Core.deps.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Core.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Core.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Dto.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Entity.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Dto.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Entity.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.csproj.AssemblyReference.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.AssemblyInfoInputs.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.AssemblyInfo.cs
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.csproj.CoreCompileInputs.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.csproj.CopyComplete
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\refint\LCCP.Core.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.Core\obj\Debug\net6.0\ref\LCCP.Core.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.csproj.AssemblyReference.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.AssemblyInfoInputs.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.AssemblyInfo.cs
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.csproj.CoreCompileInputs.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\ref\LCCP.Core.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Core.deps.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Core.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Core.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Dto.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Entity.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Dto.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\bin\Debug\net6.0\LCCP.Entity.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\LCCP.Core.csproj.CopyComplete
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.Core\obj\Debug\net6.0\refint\LCCP.Core.dll

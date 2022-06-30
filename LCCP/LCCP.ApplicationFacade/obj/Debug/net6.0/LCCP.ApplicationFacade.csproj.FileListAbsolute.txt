@@ -1,0 +1,42 @@
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.ApplicationFacade.deps.json
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.ApplicationFacade.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.ApplicationFacade.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Core.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Dto.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Entity.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Mapping.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Core.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Entity.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Mapping.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Dto.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.csproj.AssemblyReference.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.AssemblyInfoInputs.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.AssemblyInfo.cs
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.csproj.CoreCompileInputs.cache
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.csproj.CopyComplete
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\refint\LCCP.ApplicationFacade.dll
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.pdb
+C:\R Systems Git\SampleProjects\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\ref\LCCP.ApplicationFacade.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.csproj.AssemblyReference.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.AssemblyInfoInputs.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.AssemblyInfo.cs
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.csproj.CoreCompileInputs.cache
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\ref\LCCP.ApplicationFacade.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.ApplicationFacade.deps.json
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.ApplicationFacade.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.ApplicationFacade.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Core.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Dto.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Entity.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Mapping.dll
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Core.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Entity.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Mapping.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\bin\Debug\net6.0\LCCP.Dto.pdb
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\LCCP.ApplicationFacade.csproj.CopyComplete
+C:\Users\gaurav.budhiraja\OneDrive - Litera\LCCP Code\LCCP\LCCP.ApplicationFacade\obj\Debug\net6.0\refint\LCCP.ApplicationFacade.dll

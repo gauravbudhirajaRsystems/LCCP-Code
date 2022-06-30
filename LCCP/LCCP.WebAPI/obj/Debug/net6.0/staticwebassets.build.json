@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "nwCPSvWr6mOWjd/K9u5542Szzj7N04uR2P/9lr+aVRI=",
+  "Source": "LCCP.WebAPI",
+  "BasePath": "_content/LCCP.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

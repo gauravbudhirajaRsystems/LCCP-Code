@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LCCP.Services/1.0.0": {
+        "dependencies": {
+          "LCCP.Core": "1.0.0"
+        },
+        "runtime": {
+          "LCCP.Services.dll": {}
+        }
+      },
+      "LCCP.Core/1.0.0": {
+        "dependencies": {
+          "LCCP.Dto": "1.0.0",
+          "LCCP.Entity": "1.0.0"
+        },
+        "runtime": {
+          "LCCP.Core.dll": {}
+        }
+      },
+      "LCCP.Dto/1.0.0": {
+        "runtime": {
+          "LCCP.Dto.dll": {}
+        }
+      },
+      "LCCP.Entity/1.0.0": {
+        "runtime": {
+          "LCCP.Entity.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LCCP.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LCCP.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LCCP.Dto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LCCP.Entity/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
