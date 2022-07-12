@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {}
+    "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {
+    "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj",
+        "projectUniqueName": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj",
         "projectName": "LCCP.Entity",
-        "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj",
+        "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj",
         "packagesPath": "C:\\Users\\gaurav.budhiraja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\obj\\",
+        "outputPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gaurav.budhiraja\\AppData\\Roaming\\NuGet\\NuGet.Config",

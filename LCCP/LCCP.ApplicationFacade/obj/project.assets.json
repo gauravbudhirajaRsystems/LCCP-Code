@@ -87,11 +87,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.ApplicationFacade\\LCCP.ApplicationFacade.csproj",
+      "projectUniqueName": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.ApplicationFacade\\LCCP.ApplicationFacade.csproj",
       "projectName": "LCCP.ApplicationFacade",
-      "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.ApplicationFacade\\LCCP.ApplicationFacade.csproj",
+      "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.ApplicationFacade\\LCCP.ApplicationFacade.csproj",
       "packagesPath": "C:\\Users\\gaurav.budhiraja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.ApplicationFacade\\obj\\",
+      "outputPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.ApplicationFacade\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaurav.budhiraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,14 +110,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Core\\LCCP.Core.csproj": {
-              "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Core\\LCCP.Core.csproj"
+            "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Core\\LCCP.Core.csproj": {
+              "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Core\\LCCP.Core.csproj"
             },
-            "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {
-              "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj"
+            "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {
+              "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj"
             },
-            "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj": {
-              "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj"
+            "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj": {
+              "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj"
             }
           }
         }

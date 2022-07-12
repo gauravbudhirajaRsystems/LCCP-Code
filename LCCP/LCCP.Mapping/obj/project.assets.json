@@ -48,11 +48,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj",
+      "projectUniqueName": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj",
       "projectName": "LCCP.Mapping",
-      "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj",
+      "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Mapping\\LCCP.Mapping.csproj",
       "packagesPath": "C:\\Users\\gaurav.budhiraja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Mapping\\obj\\",
+      "outputPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Mapping\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaurav.budhiraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -71,11 +71,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Dto\\LCCP.Dto.csproj": {
-              "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Dto\\LCCP.Dto.csproj"
+            "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Dto\\LCCP.Dto.csproj": {
+              "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Dto\\LCCP.Dto.csproj"
             },
-            "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {
-              "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj"
+            "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj": {
+              "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Entity\\LCCP.Entity.csproj"
             }
           }
         }

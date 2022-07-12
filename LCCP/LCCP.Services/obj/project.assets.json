@@ -66,11 +66,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Services\\LCCP.Services.csproj",
+      "projectUniqueName": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Services\\LCCP.Services.csproj",
       "projectName": "LCCP.Services",
-      "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Services\\LCCP.Services.csproj",
+      "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Services\\LCCP.Services.csproj",
       "packagesPath": "C:\\Users\\gaurav.budhiraja\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Services\\obj\\",
+      "outputPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Services\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gaurav.budhiraja\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Core\\LCCP.Core.csproj": {
-              "projectPath": "C:\\Users\\gaurav.budhiraja\\OneDrive - Litera\\LCCP Code\\LCCP\\LCCP.Core\\LCCP.Core.csproj"
+            "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Core\\LCCP.Core.csproj": {
+              "projectPath": "C:\\R Systems Git\\LCCP-Code\\LCCP\\LCCP.Core\\LCCP.Core.csproj"
             }
           }
         }
